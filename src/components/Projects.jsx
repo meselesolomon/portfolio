@@ -1,7 +1,15 @@
 export default function Projects() {
   const projectList = [
-    { name: "Project 1", desc: "Portfolio website", link: "#" },
-    { name: "Project 2", desc: "Todo App", link: "#" },
+    {
+      name: "Project 1",
+      desc: "Dilet Baltina",
+      link: "https://dlet-baltna.web.app",
+    },
+    {
+      name: "Project 2",
+      desc: "Clone Apple Website",
+      link: "https://apple-website-clone1.vercel.app",
+    },
   ];
 
   return (
