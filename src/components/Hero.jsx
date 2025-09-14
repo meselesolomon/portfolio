@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="mx-auto w-full min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-600 to-purple-600 text-white"
+      className="mx-auto w-full min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-600 to-purple-600 text-white text-center"
     >
       <h1 className="text-5xl md:text-6xl font-bold mb-4 transform translate-y-10 opacity-0 animate-slideUp">
         Hi, I'm Mesele Solomon
